@@ -116,7 +116,7 @@ The most critical factors identified are:
 - Experience Level  
 
 ####  Predictive Model
-A trained Random Forest model successfully predicts employee performance,  
+A trained Random Forest with good accuracy 85% successfully predicts employee performance,  
 and can be used for hiring and internal evaluation processes.
 
 ####  Recommendations
