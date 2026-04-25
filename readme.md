@@ -157,35 +157,6 @@ to build a robust and reliable predictive model.
 The model was evaluated using accuracy score and feature importance,  
 to ensure both performance and interpretability.
 
-##  Project Structure
-
-The project is organized in a structured and modular format,  
-to ensure clarity, scalability, and maintainability.
-
-Project Summary/
-│
-├── Requirement/
-├── Analysis/
-├── Summary/
-│
-├── data/
-│   ├── external/
-│   ├── processed/
-│   └── raw/
-│
-├── src/
-│   ├── Data Processing/
-│   │   ├── data_processing.ipynb
-│   │   ├── data_exploratory_analysis.ipynb
-│   │
-│   ├── models/
-│   │   ├── train_model.ipynb
-│   │   └── predict_model.ipynb
-│   │
-│   └── visualization/
-│       └── visualize.ipynb
-│
-└── references/
 
 ##  Conclusion
 
