@@ -1,4 +1,4 @@
-#  Employee Performance Analysis & Predictions
+#  Employees Performance Analysis & Predictions
 
 ###  INX Future Inc. – Data Science Project
 
