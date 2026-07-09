@@ -42,10 +42,6 @@ making the solution practical for HR decision-making.
 The following features were identified as the most impactful on employee performance,  
 based on both statistical analysis and model-based importance scores.
 
-- **Environment Satisfaction** → Direct impact on employee motivation and productivity  
-- **Work-Life Balance** → Influences mental well-being and long-term performance  
-- **Years at Company / Experience** → Reflects expertise, stability, and efficiency  
-- **Department & Job Role** → Defines nature of work and performance expectations  
 
 These features were selected based on high correlation with the target variable,  
 and strong importance scores obtained from the Random Forest model.
