@@ -9,7 +9,6 @@ and builds a predictive model to support data-driven HR decision-making.
 - **Years at Company / Experience** → Reflects expertise, stability, and efficiency  
 - **Department & Job Role** → Defines nature of work and performance expectations  
 
-
 ##  Project Summary
 
 This project focuses on analyzing employee performance data from INX Future Inc.,  
