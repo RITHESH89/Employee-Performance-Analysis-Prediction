@@ -4,6 +4,11 @@
 
 This project analyzes employee performance data to identify key factors affecting performance,  
 and builds a predictive model to support data-driven HR decision-making.
+- **Environment Satisfaction** → Direct impact on employee motivation and productivity  
+- **Work-Life Balance** → Influences mental well-being and long-term performance  
+- **Years at Company / Experience** → Reflects expertise, stability, and efficiency  
+- **Department & Job Role** → Defines nature of work and performance expectations  
+
 
 ##  Project Summary
 
